@@ -1,0 +1,17 @@
+# Laravel
+hackhub-backend/.env
+hackhub-backend/vendor/
+hackhub-backend/storage/*.key
+hackhub-backend/storage/framework/
+hackhub-backend/storage/logs/
+
+# React
+hackhub-frontend/node_modules/
+hackhub-frontend/build/
+
+# Root-level dependencies
+/vendor/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
